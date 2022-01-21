@@ -26,12 +26,12 @@ A lead full stack developer worked on web, api, mobile application developement.
 ### **TECHNICAL ARCHITECT**
 ### vThink Global Technologies Pvt Ltd
 
-Developed Native & Hybrid mobile applications. Native iOS & Android. Hybrid Apache Cordova, Ionic.
-Developed Web applications based on AngularJS, Angular, VueJS, ReactJS.
-Developed REST API in NodeJS, Java Spring Boot, Java Jersey, RoR, .Net Core 3.1.
-Worked on SQL & NO SQL databases. SQL: MySQL, SQL, PostgreSQL. NoSQL: MongoDB.
-Unit test performed based on Jasmine, Jest.
-Build Automation performed using Jenkins, Travis CI.
+Developed Native & Hybrid mobile applications. Native iOS & Android. Hybrid Apache Cordova, Ionic. <br>
+Developed Web applications based on AngularJS, Angular, VueJS, ReactJS. <br>
+Developed REST API in NodeJS, Java Spring Boot, Java Jersey, RoR, .Net Core 3.1. <br>
+Worked on SQL & NO SQL databases. SQL: MySQL, SQL, PostgreSQL. NoSQL: MongoDB. <br>
+Unit test performed based on Jasmine, Jest. <br>
+Build Automation performed using Jenkins, Travis CI. <br>
 
 ---
 
